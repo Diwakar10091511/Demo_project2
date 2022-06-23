@@ -1,0 +1,14 @@
+{
+  "name": "npmcheck",
+  "version": "1.0.0",
+  "description": "Just a check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diwakar soni",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
