@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Diwakar10091511/Demo_project2#readme",
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
   }
 }
